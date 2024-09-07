@@ -68,7 +68,7 @@ function DocLog({ props }) {
           <div className="text-areaa mb-2 text-3xl font-normal text-green-500">
             Hi Doctor!
           </div>
-          <div className="email ">
+           <div className="email ">
             <input
               className="border border-blue-500 py-1 px-4 rounded-2xl"
               type="email"
